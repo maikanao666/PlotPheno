@@ -55,8 +55,7 @@ Due to GitHub's file size limits, the pre-trained ST-PRNet weights are not
 included in this repository. Please download the weight file (weight.pth) from
 the link below and place it in the models/ directory:
 
-- **Official Link (For Global Reviewers):** [Download weight.pth (Official)](https://github.com/maikanao666/PlotPheno/releases/download/v1.0/weight.pth)
-- **Mirror Link (For Mainland China Users - High Speed):** [Download weight.pth (Mirror)](https://mirror.ghproxy.com/https://github.com/maikanao666/PlotPheno/releases/download/v1.0/weight.pth)
+- **Official Link (For Global Reviewers):** https://github.com/maikanao666/PlotPheno/releases/tag/V1.0
 
 Project structure should look like this:
 
